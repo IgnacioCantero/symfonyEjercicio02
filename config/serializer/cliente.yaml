@@ -1,0 +1,14 @@
+App\Entity\Citas:
+  attributes:
+    id:
+      groups: ['cita']
+    nombre:
+      groups: ['cita']
+    apellidos:
+      groups: ['cita']
+    edad:
+      groups: ['cita']
+    sexo:
+      groups: ['cita']
+    comentarios:
+      groups: ['cita']

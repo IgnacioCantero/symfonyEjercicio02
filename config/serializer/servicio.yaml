@@ -1,0 +1,8 @@
+App\Entity\Citas:
+  attributes:
+    id:
+      groups: ['cita']
+    nombre:
+      groups: ['cita']
+    tiempo:
+      groups: ['cita']

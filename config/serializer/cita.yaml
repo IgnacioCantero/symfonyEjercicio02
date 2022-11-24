@@ -1,0 +1,10 @@
+App\Entity\Citas:
+  attributes:
+    id:
+      groups: ['cita']
+    fechaHora:
+      groups: ['cita']
+    cliente:
+      groups: ['cita']
+    servicio:
+      groups: ['cita']
